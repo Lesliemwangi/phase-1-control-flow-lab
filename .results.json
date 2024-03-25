@@ -5,15 +5,15 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2024-03-25T11:29:17.728Z",
-    "end": "2024-03-25T11:29:18.022Z",
-    "duration": 294
+    "start": "2024-03-25T11:40:13.101Z",
+    "end": "2024-03-25T11:40:13.559Z",
+    "duration": 458
   },
   "tests": [
     {
       "title": "gives customers a free sample if the ride is less than or equal to 400 feet",
       "fullTitle": "index.js scuberGreetingForFeet() gives customers a free sample if the ride is less than or equal to 400 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,7 +55,7 @@
     {
       "title": "should return \"Thank you so much.\" if the tip is generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you so much.\" if the tip is generous",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,7 +80,7 @@
     {
       "title": "gives customers a free sample if the ride is less than or equal to 400 feet",
       "fullTitle": "index.js scuberGreetingForFeet() gives customers a free sample if the ride is less than or equal to 400 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -122,7 +122,7 @@
     {
       "title": "should return \"Thank you so much.\" if the tip is generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you so much.\" if the tip is generous",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
